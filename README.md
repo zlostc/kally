@@ -2,6 +2,13 @@
 
 Bot Discord multifuncional com musica, economia estilo Minecraft, diversao e utilidades.
 
+| Informacao | Data |
+|-----------|------|
+| Criacao do projeto | 15 de Julho de 2021 |
+| Primeiro deploy | 15 de Julho de 2021 |
+| Ultima atualizacao | 22 de Junho de 2026 |
+| Versao atual | 2.0.0 |
+
 Atualizado para 2026: aoi.js v6 + discord.js v14 + Express com headers de seguranca.
 
 ## Funcionalidades
